@@ -30,8 +30,10 @@ email_classifier_project/
 └── requirements.txt # Dependencies
 
 ---
-💻 Usage
-📨 Classifier Tab
+
+
+**💻 Usage
+📨 Classifier Tab**
 
 Paste your email content into the text box
 
@@ -39,7 +41,8 @@ Click Classify to get category prediction
 
 If prediction is wrong, choose the correct label and click Submit Feedback
 
-📊 Performance Dashboard Tab
+
+**📊 Performance Dashboard Tab**
 
 Shows:
 
@@ -54,6 +57,8 @@ Confusion matrix heatmap
 Requires test_data.csv created during training.
 Technologies Used
 
+**📚 Technologies Used**
+
 Python
 
 Streamlit
@@ -65,7 +70,8 @@ Scikit-learn (TF-IDF, Naive Bayes, SVM, evaluation)
 Matplotlib & Seaborn (visualization)
 
 Joblib (model saving/loading)
-Future Enhancements
+
+**📌 Future Enhancements**
 
 Gmail API integration to fetch real emails
 
